@@ -1,7 +1,4 @@
 
-i am new to git hub.  
-i am interested in css,html,c,c++,C#,java,j-script.  
-i am rendering.  
 <ul>
 <li>hi my name is aaditya raj.  </li>
 <li>i am new to git hub.  </li>
